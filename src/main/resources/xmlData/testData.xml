@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+
+    <GuestUser>
+        <firstname>gar xml</firstname>
+        <lastname>gar xml</lastname>
+        <phone>501234567</phone>
+        <email>rag@yahoo.com</email>
+    </GuestUser>
+
+    <Address>
+        <address>jordan</address>
+        <apartment>B2</apartment>
+        <floor>ground</floor>
+        <buildingName>Alzhoor</buildingName>
+        <streetName>bushra</streetName>
+        <area>Irbid</area>
+        <zipCode>1234</zipCode>
+        <contactFullName>sfd</contactFullName>
+        <phone>dsf</phone>
+    </Address>
+
+
+    <card>
+        <name>fsd</name>
+        <cardNumber>5200000000001005</cardNumber>
+        <cardDate>0926</cardDate>
+        <cvv>123</cvv>
+        <visa>4111111111111111</visa>
+        <threeDCard>4456530000001096</threeDCard>
+
+    </card>
+
+
+    <usersCredentials>
+        <AsmaEmailAddress>abd@out</AsmaEmailAddress>
+        <AsmaPassword>test@1234</AsmaPassword>
+    </usersCredentials>
+
+    <Address>
+        <address>jordan</address>
+        <apartment>B2</apartment>
+        <floor>ground</floor>
+        <buildingName>Alzhoor</buildingName>
+        <streetName>bushra</streetName>
+        <area>Irbid</area>
+        <zipCode>1234</zipCode>
+        <contactFullName>df</contactFullName>
+        <AddressEmail>dfg@test</AddressEmail>
+
+    </Address>
+
+</Data>
